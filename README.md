@@ -18,7 +18,7 @@ A theme called spaarnestadphoto
 Description
 ===
 
-Hi. I'm a theme called spaarnestadphoto. Created for Spaarnestadphoto commissioned by Media College Amsterdan
+Hi. I'm a theme called spaarnestadphoto. Created for Spaarnestadphoto commissioned by Media College Amsterdam
 
 
 Instalation
