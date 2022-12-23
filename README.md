@@ -3,14 +3,12 @@
 Spaarnestad Photo
 ===
 
-Contributors: automattic
-Tags:
-
 Requires at least: 4.0
 Tested up to: 4.8
 Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
+Creator: Daisy Tammer
 
 A theme called spaarnestadphoto
 
@@ -18,7 +16,7 @@ A theme called spaarnestadphoto
 Description
 ===
 
-Hi. I'm a theme called spaarnestadphoto. Created for Spaarnestadphoto commissioned by Media College Amsterdam
+A theme called spaarnestadphoto. Created for Spaarnestadphoto commissioned by Media College Amsterdam
 
 
 Instalation
@@ -33,8 +31,7 @@ FAQ
 ===
 
 = Does this theme support any plugins? =
-
-spaarnestadphoto includes support for Infinite Scroll in Jetpack.
+Spaarnestadphoto includes support for Infinite Scroll in Jetpack.
 
 
 Credits
